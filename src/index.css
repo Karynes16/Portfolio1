@@ -14,3 +14,8 @@ code {
     monospace;
 }
 
+button {
+  color: whitesmoke;
+  padding: 10px;
+  background-color: blue;
+}
