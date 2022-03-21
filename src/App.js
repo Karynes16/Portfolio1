@@ -130,15 +130,16 @@ function App() {
     );
 //}
 
+//functional component for portfolio
 function buttonMessage() {
   alert('Item added to cart');
 }
 
 return (
-  <button onClick={buttonMessage}>
-  click me! 
-  </button>
-  );
+<button onClick={buttonMessage}>
+  click here!
+</button>
+);
 }
 
 export default App;
