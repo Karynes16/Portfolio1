@@ -127,7 +127,18 @@ function App() {
       <div className="App">
         <MenuApp data={menuData}></MenuApp>
       </div>
-    )
+    );
+//}
+
+function buttonMessage() {
+  alert('Item added to cart');
 }
 
-export default App
+return (
+  <button onClick={buttonMessage}>
+  click me! 
+  </button>
+  );
+}
+
+export default App;
