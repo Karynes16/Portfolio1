@@ -130,12 +130,5 @@ function App() {
     )
 }
 
-function Paragraph() {
-  return (
-    <div>
-      <p>Some content!</p>
-    </div>
-  );
-}
 
 export default App
