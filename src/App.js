@@ -127,19 +127,15 @@ function App() {
       <div className="App">
         <MenuApp data={menuData}></MenuApp>
       </div>
-    );
-//}
-
-//functional component for portfolio
-function buttonMessage() {
-  alert('Item added to cart');
+    )
 }
 
-return (
-<button onClick={buttonMessage}>
-  click here!
-</button>
-);
+function Paragraph() {
+  return (
+    <div>
+      <p>Some content!</p>
+    </div>
+  );
 }
 
-export default App;
+export default App
