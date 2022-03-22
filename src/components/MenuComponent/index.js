@@ -1,12 +1,10 @@
 function ButtonAdd() {
-        const [count, setCount] = useState(0);
+        <button>Click here for dietary information</button>
     
         return (
           <div>
-        <p>You added this to your cart {count} times</p>
-            <button onClick={() => setCount(count + 1)}>
-            Add to Cart
-           </button>
+        <p>This item is fat free, gluten free, and dairy free!</p>
+            
          </div>
        );
      }
