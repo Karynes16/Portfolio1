@@ -12,25 +12,25 @@ function App() {
     let menuData = [
       {
      // <Menu
-      menuName:"Latin Dinner",
+      menuName:"Latin Appetizers",
       menuItems: [
       {
         itemId:1,
         itemPrice: "$12",
-        itemName: "Lasagne",
-        itemDescription: "Meat and Cheese layered between house-made pasta with bell peppers and onions.",
+        itemName: "Pastelillos",
+        itemDescription: "Thin dough turnovers stuffed with your meat of choice.",
       },
       {
         itemId:2,
         itemPrice: "$10",
-        itemName: "Cheese Ravioli",
-        itemDescription: "Cheese-filled ravioli served with house red sauce.",
+        itemName: "Morcilla",
+        itemDescription: "Authentic Puerto Rican Style Blood Sausage.",
       },
       {
         itemId:3,
         itemPrice: "$14",
-        itemName: "Chicken Parmesean",
-        itemDescription: "Breaded chicken topped with marinara sauce and lots of cheese served over house made spaghetti.",
+        itemName: "Queso Frito",
+        itemDescription: "Hand Cut Fried Cheese",
       }
     ]
   },
