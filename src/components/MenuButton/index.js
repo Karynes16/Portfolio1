@@ -37,7 +37,7 @@ function ButtonMessage() {
           <div>
         <p>You added this to your cart {count} times</p>
             <button onClick={() => setCount(count + 1)}>
-            Click me
+            Add to Cart
            </button>
          </div>
        );
