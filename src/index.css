@@ -7,6 +7,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: aqua;
   border-style: dashed;
+  border-width: 7px;
+  border-color: blueviolet;
 }
 
 code {
@@ -17,5 +19,5 @@ code {
 button {
   color: whitesmoke;
   padding: 10px;
-  background-color: blue;
+  background-color: blueviolet;
 }
