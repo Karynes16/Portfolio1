@@ -1,4 +1,4 @@
-function ButtonMessage() {
+function ButtonAdd() {
         const [count, setCount] = useState(0);
     
         return (
@@ -11,4 +11,4 @@ function ButtonMessage() {
        );
      }
 
-     export default ButtonMessage;
+     export default ButtonAdd;
