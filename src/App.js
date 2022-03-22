@@ -112,6 +112,6 @@ function App() {
 //   );
 // }
     
-<MenuButton>{ButtonMessage}</MenuButton>
+<MenuButton></MenuButton>
 
 export default App;
