@@ -13,7 +13,12 @@ body {
 
 h1 {
   background-color: rgb(255, 180, 232);
-  
+}
+h2{
+  font-style: italic;
+}
+p {
+  font-size: medium;
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
