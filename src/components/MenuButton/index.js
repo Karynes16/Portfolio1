@@ -28,8 +28,8 @@ import { useState } from "react";
 // export default ButtonMessage;
 
 
-function ButtonMessage() {
-        const [cart, setCart] = useState(0);
+function Example() {
+        const [count, setCount] = useState(0);
     
         return (
           <div>
@@ -41,4 +41,5 @@ function ButtonMessage() {
        );
      }
 
-export default ButtonMessage;
+     export default Example;
+
