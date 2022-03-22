@@ -1,3 +1,6 @@
+//second functional component for portfolio
+
+
 function ButtonAdd() {
         <button>Click here for dietary information</button>
     
