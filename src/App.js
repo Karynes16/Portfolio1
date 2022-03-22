@@ -12,7 +12,7 @@ function App() {
     let menuData = [
       {
      // <Menu
-      menuName:"Dinner",
+      menuName:"Latin Dinner",
       menuItems: [
       {
         itemId:1,
