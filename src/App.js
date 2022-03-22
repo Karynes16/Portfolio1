@@ -43,26 +43,26 @@ function App() {
        {
          itemId:45,
          itemPrice: "$10",
-         itemName: "Chocolate Lava Cake",
-         itemDescription: "Dark chocolate molten lava cake. Serves 2-3.",
+         itemName: "Flan de Queso",
+         itemDescription: "Cream Cheese Caramel Custard. Serves 2-3.",
        },
        {
          itemId:47,
          itemPrice: "$8",
-         itemName: "Tiramisu",
-         itemDescription: "Layers of espresso-soaked ladyfingers and marscarpone cream topped with cocoa and espresso powder.",
+         itemName: "Arroz con Dulce",
+         itemDescription: "Coconut rice pudding.",
        },
        {
          itemId:49,
          itemPrice: "$5",
-         itemName: "Cannolis",
-         itemDescription: "Three flaky pastries enclosing a rich, ricotta filling dotted with decadent chocolate chips.",
+         itemName: "Tembleque",
+         itemDescription: "Coconut jelly-like Custard.",
        },
        {
          itemId:50,
          itemPrice: "$5",
-         itemName: "Cappuccino",
-         itemDescription: "Steamed milk with two ristretto shots of espresso.",
+         itemName: "Flan de Vanilla",
+         itemDescription: "Vanilla Caramel Custard.",
        }
      ]
     }
