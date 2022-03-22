@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css'
 import MenuApp from "./components/MenuApp"
 import MenuButton from "./components/MenuButton"
-import ButtonMessage from './components/MenuButton';
+import ButtonMessage from './components/MenuButton'
 
 
 
