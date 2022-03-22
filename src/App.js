@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css'
 import MenuApp from "./components/MenuApp"
+import ButtonMessage from "./components/MenuButton"
 
 // [
 //   {
@@ -128,19 +129,43 @@ function App() {
         <MenuApp data={menuData}></MenuApp>
       </div>
     )
-//}
-
-
-function buttonMessage() {
-  alert('Item added to shopping cart');
 }
 
-return (
-  <button onClick={buttonMessage}>
-    click here
-  </button>
-);
-}
 
+// function buttonMessage() {
+//   alert('Item added to shopping cart');
+// }
+
+// return (
+//   <button onClick={buttonMessage}>
+//     click here
+//   </button>
+// );
+// }
+
+// function ButtonMessage () {
+//   const [cart, setCart] = useState(true);
+
+//   return (
+//     <div 
+//     className="ButtonMessage"
+//     >
+//       {
+//         (cart
+//           ?
+//           <>
+//           <button onClick={() =>
+//           {setCart(false)}}>Add to Cart
+//           </button>
+        
+//           </>
+//           :
+//           alert ('item added to cart')
+//           )
+//       }
+//     </div>
+//   );
+// }
+    
 
 export default App;
