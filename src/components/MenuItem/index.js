@@ -1,5 +1,5 @@
 import React from 'react'
-import ButtonMessage from "./components/MenuButton"
+import ButtonMessage from "../MenuButton"
 
 export default class MenuItem extends React.Component {
 render() {
