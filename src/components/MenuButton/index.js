@@ -29,7 +29,7 @@ import React, { useState } from 'react';
 
 
 
-//Reactjs.org example
+//functional component 1
 function ButtonMessage() {
         const [count, setCount] = useState(0);
     
