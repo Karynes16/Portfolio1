@@ -112,6 +112,6 @@ function App() {
 //   );
 // }
     
-<MenuButton>data={ButtonMessage}</MenuButton>
+<MenuButton>{ButtonMessage}</MenuButton>
 
 export default App;
