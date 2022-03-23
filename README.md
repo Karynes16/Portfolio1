@@ -7,3 +7,5 @@ the button color to purple. I also changed the letters to be white and made the 
 For this portfolio I added two new components.
 One of my components tells the user how many ntimes they added an item to thier cart.
 The second component passes text through to advise users of the nutritional value of the food.
+
+Published Link: https://karynes16.github.io/Portfolio1/
